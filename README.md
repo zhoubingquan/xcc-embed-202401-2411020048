@@ -15,7 +15,7 @@ xcc-embed-202401-2411020048
 ├── README.md
 ├── .gitignore
 ├── lab01-led        # 实验1：LED流水灯
-├── lab02-keyboard   # 实验2：3×3矩阵键盘（后续新增）
+├── lab02-keyboard   # 实验2：4×4矩阵键盘（后续新增）
 
 ## .gitignore 功能说明
 过滤Keil、STM32CubeMX编译临时文件、axf、hex以及庞大的HAL驱动库Drivers文件夹，只保留核心工程源码。
