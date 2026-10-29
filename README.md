@@ -25,5 +25,9 @@ xcc-embed-202401-2411020048
 实验名称：STM32 LED流水灯
 功能：实现LED循环流水点亮
 开发平台：STM32F407 + STM32CubeMX + Keil5
+### lab02-keyboard
+实验名称：STM32 4×4矩阵键盘
+功能：矩阵按键扫描，按键检测
+开发平台：STM32F407 + STM32CubeMX + Keil5
 
 > ⚠️ 备注：本工程省略Drivers HAL库，下载工程后使用STM32CubeMX重新生成代码即可编译运行。
